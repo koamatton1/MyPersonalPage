@@ -15,6 +15,18 @@ body {
 	border: 15px solid white;
 }
 
+.header2 {
+	font-family: Helvetica, sans-serif;
+	font: black;
+	font-size: 12px;
+	text-deceration: none;
+	background-color: white;
+	color: black;
+	text-align: center;
+	padding: 100px;
+	margin-top: 35px;
+	border: 15px solid grey;
+
 .para {
 	font-family: Times New Roman;
 	font-size: 18px;
